@@ -28,8 +28,7 @@ You are building a list of event team members using React.js.
 - Use a Gravatar for displaying a user's avatar based on the user's email
 
 #### To submit
-- Send Josh (apinan@iotech.co.th) an email with a link to your repository
-- ส่งอีเมล์งานของคุณมาที่ apinan@iotech.co.th โดยประกอบด้วยลิ้งค์สำหรับ Git repository ที่คุณทำ Firebase url สำหรับตัวอย่างการทำงาน
+- ส่งอีเมล์งานของคุณมาที่ apinan@iotech.co.th, career@iotech.co.th โดยประกอบด้วยลิ้งค์สำหรับ Git repository ที่คุณทำ Firebase url สำหรับตัวอย่างการทำงาน
 
 #### Notes
 - The design shows just a sampling of users. You should display all of the users that the endpoint returns.
